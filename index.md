@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+---
+title: Acceuil
+---
+## Un VTC ? C'est quoi ?
 
-You can use the [editor on GitHub](https://github.com/EscadronGriffons/vtc.esgr.cf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+*Virtual Trucking Company* - *Compagnie de Camionage Virtuel*
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Un VTC ? Pourquoi ?
 
-### Markdown
+Dans l'escadron nous sommes plusieurs a posseder le jeu Euro Truck Simulator 2, donc avec [Cole](https://steamcommunity.com/profiles/76561198175787307) nous avons decider de fonder un VTC
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Un VTC ? Il faut quoi ?
 
-```markdown
-Syntax highlighted code block
+Rien, juste de l'humour et l'envie de jouer a ETS2/discuter avec d'autres membres
 
-# Header 1
-## Header 2
-### Header 3
+## Comment vous rejoindre ?
 
-- Bulleted
-- List
+Venez simplement sur notre [Discord dédié a Euro Truck Simulator 2](https://discord.gg/Q99U9U6), faites `?rejoindre` dans notre salon #general et les infos seront affiché !
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EscadronGriffons/vtc.esgr.cf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Fait par [Jus De Patate](https://github.com/jusdepatate), un des modérateurs de l'escadron
+*[Voir tous les autres contributeurs](https://github.com/EscadronGriffons/vtc.esgr.cf/graphs/contributors)*
